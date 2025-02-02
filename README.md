@@ -11,7 +11,7 @@ In the end, I realised that a simple viewsource and a quick Python script can ea
 
 ## Extracting subscription list
 
-1. Included is the file 'getsubs-yml.py'.
+1. Included is the file 'getsubs.py'.
 2. Head to https://www.youtube.com/feed/channels and load the entire page (you may need to scroll down)
 3. Right click and view page source code 
 4. Copy and paste the FULL page source code to a text file and save it as 'viewsource.txt' in the same directory
